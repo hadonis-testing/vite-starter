@@ -28,3 +28,7 @@ coverage
 yarn.lock
 package-lock.json
 pnpm-lock.yaml
+
+# OS files
+.DS_Store
+Thumbs.db
